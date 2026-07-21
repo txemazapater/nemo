@@ -33,7 +33,13 @@ In other words:
 
 NATIA does not define the standard. NEMO remains independent so that other products, repositories, agents, and platforms can implement it.
 
-## Draft specification
+## Standards track
+
+- [`RFC-0001: NEMO Foundation`](docs/rfc/RFC-0001-NEMO-FOUNDATION.md) — initial scope, principles, terminology, architecture, interoperability model, governance direction, and NEMO-Ready foundation.
+
+During the founding phase, accepted editorial work is written directly to `main`. Numbered RFCs are the canonical mechanism for evolving NEMO.
+
+## Supporting draft documents
 
 - [`docs/00-VISION.md`](docs/00-VISION.md) — purpose, scope, principles, and non-goals.
 - [`docs/01-CORE-MODEL.md`](docs/01-CORE-MODEL.md) — core knowledge objects and relationships.
